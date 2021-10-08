@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.branco {
+color: #21b341;
+text-decoration: none;
+}
+
+.titulo{
+  color: #34623f;
+   font-weight: bold;
+}
+
+.verde{
+color: #34623f;
+text-decoration: none;
+}
+
+.ultima{
+ color: #34623f; 
+  font-weight: bold;
+}
+
+.sub-titulo{
+  color: #34623f;
+   font-weight: bold;
+}
+
+body{
+  background-color: #b0bea9;
+}
